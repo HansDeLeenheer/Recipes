@@ -3,7 +3,7 @@
 A lot of cultures have blood sausages in their repertoire. Whether it's called 'blackpudding' in the UK, 'morcilla' in Spain and Mexico, 'boudin' for the French,  or 'beuling' in my neighboorhood (Flanders, BE), it all boils down (ba-dum tsjing) to mostly pigs blood with a starch thinckener like rice or old bread in a sausage casing, cooked 'till firm and then grilled. In Belgium we serve it with warm apple sauce by the way!
 
 ## Time & Materials
-About 1.5 hours (+ 2 to 3 hours if you're boiling your own pig's heads - recommended!)
+About 1.5 hours (plus 2 to 3 hours if you're boiling your own pig's heads - recommended!)
 * Hog casings 34mm (1.3 inches)
 * large casserole and preferably a sous vide (optional but very handy)
 * sausage stuffer, or alternatively a plastic funnel would work also since this is a quite liquid sausage in the making
@@ -12,19 +12,19 @@ About 1.5 hours (+ 2 to 3 hours if you're boiling your own pig's heads - recomme
 ## Ingredients
 | Ingredients | Metric | Imperial |
 |----------|-------------:|------:|
-| pigs blood | 5L | 10 pints |
-| yellow onion | 5kg | 10lbs |
-| neck fat | 2kg | 4lbs |
-| backfat | 2kg | 4lbs |
-| head meat (or just 2 heads) | 1kg | 2lbs |
-| chunky apple sauce | 1kg | 2lbs |
-| cane sugar | | 1cup |
+| pigs blood | 5 L | 10 pints |
+| yellow onion | 5 kg | 10 lbs |
+| neck fat | 2 kg | 4 lbs |
+| backfat | 2 kg | 4 lbs |
+| head meat (or just 2 heads) | 1 kg | 2 lbs |
+| chunky apple sauce | 1 kg | 2 lbs |
+| cane sugar | | 1 cup |
 | black pepper | | 1/2 cup |
 | salt | | 1/2 cup |
-| ground cloves | | 2TB |
-| ground pigment | | 2TB |
-| ground nutmeg | | 1TB |
-| breadcrumbs* | 1kg | 2lbs |
+| ground cloves | | 2 TB |
+| ground pigment | | 2 TB |
+| ground nutmeg | | 1 TB |
+| breadcrumbs* | 1 kg | 2 lbs |
 
 \* the original recipe did not include breadcrumbs but I do recommend it, especially for your first time.
 
