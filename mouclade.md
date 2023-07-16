@@ -3,6 +3,11 @@
 ## Short Description
 
 ## Time and Materials
+* 1-2 hours preparation maximum.
+
+* A large pot for cooking your mussels
+* A decent cooking pot for making the sauce and bringing it all together
+* A small saucepan for heating up the egg yolks and cream
 
 ## Ingredients
 
