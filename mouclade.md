@@ -3,7 +3,7 @@
 ## Short Description
 
 ## Time and Materials
-* 1-2 hours preparation maximum.
+Takes about a 1-2 hours preparation maximum.
 
 * A large pot for cooking your mussels
 * A decent cooking pot for making the sauce and bringing it all together
