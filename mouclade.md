@@ -41,4 +41,4 @@ Take everything off of the fire, add the cream with the sauce, and a big tablesp
 you can serve this as is for an appetizer or as a full meal with some toasted bread. One alternative of serving is grilled in a fireproof casserole with some gruyere cheese on top.
 
 ## Sources 
-This recipe has some French roots but has been honed down over time by my father Freddy De Leenheer. It is by far the most 'different' type of dish anyone has ever eaten and has brought many people joy in life when we serve it to them. The thickness of the creamy sauce with the abundance of good mussels is truly a treat!
+This recipe has some French roots but has been honed down over time by my father **Freddy De Leenheer**. It is by far the most 'different' type of dish anyone has ever eaten and has brought many people joy in life when we serve it to them. The thickness of the creamy sauce with the abundance of good mussels is truly a treat!
