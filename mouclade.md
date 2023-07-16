@@ -15,7 +15,7 @@
 |----------|-------------:|------:|
 | Mussels | 10 kg | 20 lbs |
 | White wine | 50 cl | 1 pint |
-| Herbs: thyme, sage, rosemary, parsley, garlic, onion, ground pepper (no salt) |||
+| Fresh herbs: thyme, sage, rosemary, parsley, garlic, onion, ground pepper (no salt) |||
 | White onions | 6 ||
 | Large shallots | 6 ||
 | 'Real' butter | 150 gr | 5 ounce |
