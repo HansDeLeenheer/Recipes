@@ -37,5 +37,5 @@ Bring the water in your large casserole (with or without sous vide) up to 80C / 
 
 ## Sources
 * This recipe is based on my notes from a workshop by master butcher **Hendrik Dierendonck**. The original is in his first book https://www.dierendonck.be/en/products/boek in Dutch.
-* Here's some pictures from the workshop: https://www.instagram.com/p/BcukG-DFStS/ 
-* And from one time I made them at home: https://www.instagram.com/p/Bs3nJ_Cnbje/
+* Here's some pictures from the workshop: https://www.instagram.com/p/BcukG-DFStS7MplOx-retiUAHOq9r0udq8LxNs0/
+* And from one time I made them at home: https://www.instagram.com/p/Bs3nJ_CnbjepIQleaPFqNo0sCKf1I-ZxRNDres0/
