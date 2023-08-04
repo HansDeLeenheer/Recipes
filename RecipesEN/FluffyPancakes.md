@@ -8,13 +8,13 @@ Maximum 5 minutes of preparation and then some for baking the pancakes.
 ## Ingredients
 | Ingredients | Metric | Imperial |
 |----------|-------------:|------:|
-| Eggs | | 2 |
+| Eggs | 2 ||
 | Milk | 35cl | 12 ounces |
-| Plain flour | | 300gr |
-| Sugar | | 60gr |
-| Salt | | 5gr |
-| Baking powder | | 16gr |
-| Melted butter | | 20gr |
+| Plain flour || 300gr |
+| Sugar || 60gr |
+| Salt || 5gr |
+| Baking powder || 16gr |
+| Melted butter || 20gr |
 
 ## Step by Step
 First, mix the wet ingredients (milk & eggs). In a second bowl mix all the dry ingredients. Now mix all of it well together and make sure there are no clumps left.
