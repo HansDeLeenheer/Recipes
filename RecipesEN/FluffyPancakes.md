@@ -1,4 +1,6 @@
 # Fluffy Pancakes
+
+![image from a stack of pancakes with strawberries on top](/Assets/Pictures/fluffypancakes.png)
 ## Short Description
 We Belgians usually prefer the thin, French style, 'crepes' but from time to time you gotta have a full stack of American Fluffy Pancakes.
 
