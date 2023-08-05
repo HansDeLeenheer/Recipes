@@ -1,4 +1,7 @@
 # Amerikaanse Ontbijtpannenkoeken
+
+<img src="/Assets/Pictures/fluffypancakes.png" width="200">
+
 ## Korte Beschrijving
 Bij ons in België zijn we gewoon van flensjes te maken, gebaseerd op de Franse crêpes. En we eten deze meestal als dessert. Maar af en toe wil je wel eens zo een stapel van die fantastische 'fluffy' Amerikaanse pannenkoeken. En ze zijn heel gemakkelijk te maken. 
 
