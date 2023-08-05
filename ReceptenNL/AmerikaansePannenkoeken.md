@@ -15,6 +15,7 @@ Als je alles in huis hebt, is hier met moeite 5 minuten voorbereiding aan en dan
 | Zout | 5gr | |
 | Bakpoeder | 16gr (1 zakje) | €0.16 |
 | Gesmolten boter | 20gr | €0.11 |
+| **TOTALE KOST** | | **€0.99** |
 
 ## Klaar Maken
 Meng eerst je natte ingrediëten (melk en eieren) en in een andere kom alle droge ingrediënten. Daarna goed door elkaar mixen tot er zeker geen klonters meer zijn.
