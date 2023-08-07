@@ -21,9 +21,12 @@
 * Bouillon toevoegen
 * Zachtjes aan de kook brengen
 * Erwtjes toevoegen en 10 minuten laten inkoken
-* Mixen en Afkruiden
+* Mixen en Afkruiden met zout en peper
 
 ## Serveren
+Optie 1: gebakken blokjes licht gerookt spek
+Optie 2: croutons
+Optie 3: room
 
 ## Bronnen
 * Peter Goossens op NJAM : https://www.youtube.com/watch?v=gM8rlqfq9lE / https://njam.tv/recepten/erwtensoep-met-broodcroutons
