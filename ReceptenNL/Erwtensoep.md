@@ -14,7 +14,7 @@
 | Look | 1 teentje ||
 | Groente of Kippebouillon | 2 Liter ||
 | Diepvries erwtjes | 700gr ||
-|| TOTAAL ||
+| **TOTAAL** |||
 
 ## Bereiding
 * Zacht aanstoven aromaten
