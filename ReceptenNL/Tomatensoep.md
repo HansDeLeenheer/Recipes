@@ -44,7 +44,9 @@
 * Afkruiden met peper en zout.
 
 ## Serveren
-...
+* Optie 1: mini mozarella balletjes
+* Optie 2: blaadjes basilicum
+* Optie 3: kerstomaaatjes 20 minuten in de oven roosteren
 
 ## Inspiratie
 * Bron : [link](https://link.com)
