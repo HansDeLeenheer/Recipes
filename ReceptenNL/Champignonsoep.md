@@ -42,7 +42,7 @@
 <img src="/Assets/Pictures/Champignonsoep_gemixt.png" width="300">
 
 ## Serveren
-* Optie: crokant gebakken croutons in lookboter
+* Optie: krokant gebakken croutons in lookboter
 
 ## Inspiratie
 * NJAMtv : [Roger Van Damme](https://www.youtube.com/watch?v=YXyZVvnYH9o)
