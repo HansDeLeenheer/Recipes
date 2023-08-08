@@ -20,7 +20,8 @@
 | **TOTAAL** || **€9.98** |
 
 *Deze hoeveelheid maakt ongeveer 9 diepe borden, dus €1.10 per portie.*
-*€3.29 hiervan gaat wel naar de room. Je kan het ook zonder doen als je wat wil besparen. Dan kom je op €6.69 kostprijs en €74 per portie.*
+
+*€3.29 hiervan gaat wel naar de room. Je kan het ook zonder doen als je wat wil besparen. Dan kom je op €6.69 kostprijs en €0.74 per portie.*
 
 ## Bereiding
 * Snij de champignons, sjalotten en look in plakjes. 
