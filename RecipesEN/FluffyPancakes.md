@@ -25,5 +25,5 @@ First, mix the wet ingredients (milk & eggs). In a second bowl mix all the dry i
 You know you want toppings on this. Maple syrup, powdered sugar, strawberry jam, ... 
 
 ## Sources
-* The original recipe is from the awesome **Joshua Weissmann** and can be found in his "Perfect Homemade Pancakes (Japanese Soufflé Vs. American Style)" Youtube video: https://www.youtube.com/watch?v=GLdl71cZXmY/ 
-* full stack served with strawberries: https://www.instagram.com/p/CJghHpppmO_05hN05GufqgMCY81v1wnH0oBpRQ0/
+* The original recipe is from the awesome **Joshua Weissmann** and can be found in his "Perfect Homemade Pancakes (Japanese Soufflé Vs. American Style)" [Youtube video](https://www.youtube.com/watch?v=GLdl71cZXmY/) 
+* full stack served with strawberries on [Instagram](https://www.instagram.com/p/CJghHpppmO_05hN05GufqgMCY81v1wnH0oBpRQ0/)
