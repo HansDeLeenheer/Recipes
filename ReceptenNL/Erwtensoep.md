@@ -1,7 +1,4 @@
 # Erwtensoep
-## Korte omschrijving
-...
-
 ## Tijd en materiaal
 ...
 
