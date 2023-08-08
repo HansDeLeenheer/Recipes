@@ -22,7 +22,7 @@
 | **TOTAAL** || **€4.95** |
 
 ## Bereiding
-* Verwarmd e oven voor op 200 graden Celcius
+* Verwarm de oven voor op 200 graden Celcius
 * Snij de tomaten, zoete puntparika, uien en look in grove stukken. 
 <img src="/Assets/Pictures/Tomatensoep_miseenplace.png" width="300">
 * Meng alles samen met de tomatenpuree, olijfolie en kruiden in een grote bakplaat.
