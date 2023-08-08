@@ -13,7 +13,7 @@
 | Ingrediënt | Aantal | Kost |
 |----------|-------------:|------:|
 | Tomaten | 10 | €1.94 |
-| Zoete puntparika | 2 | €1.32|
+| Zoete puntpaprika | 2 | €1.32|
 | Ui | 2 grote | €0.96 |
 | Look | 2 teentjes | €0.10 |
 | Tomatenpure | 1 eetlepel (70gr) | €0.30 |
