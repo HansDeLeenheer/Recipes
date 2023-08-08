@@ -9,7 +9,7 @@ Bij ons in België zijn we gewoon van flensjes te maken, gebaseerd op de Franse 
 Als je alles in huis hebt, is hier met moeite 5 minuten voorbereiding aan en dan kwartiertje bakken.
 
 ## Ingrediënten
-| Ingredient | Hoeveelheid | Cost |
+| Ingredient | Aantal | Kost |
 |----------|-------------:|---------:|
 | Eieren | 2 | €0.62 |
 | Melk | 35cl | |
