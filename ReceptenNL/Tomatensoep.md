@@ -49,4 +49,4 @@
 * Optie 3: kerstomaaatjes 20 minuten in de oven roosteren
 
 ## Inspiratie
-* NAJMtv : [Dagny Ros](https://www.youtube.com/watch?v=YhBWAxxY0mQ ) / [Roger Van Damme](https://www.youtube.com/watch?v=OLvKWtY1IG8)
+* NJAMtv : [Dagny Ros](https://www.youtube.com/watch?v=YhBWAxxY0mQ ) / [Roger Van Damme](https://www.youtube.com/watch?v=OLvKWtY1IG8)
