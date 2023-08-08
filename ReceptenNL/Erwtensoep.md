@@ -1,3 +1,5 @@
+!function(){for(var e=document.body.getElementsByTagName("a"),t=e.length,n=0;n<t;n++)new URL(e[n].href).origin!==location.origin&&e[n].setAttribute("target","_blank")}();
+
 # Erwtensoep
 ## Korte omschrijving
 ...
@@ -29,4 +31,4 @@
 * Optie 3: room
 
 ## Bronnen
-* Peter Goossens op NJAM : [Youtube](https://www.youtube.com/watch?v=gM8rlqfq9lE){:target=”_blank”} / [Website](https://njam.tv/recepten/erwtensoep-met-broodcroutons){:target=”_blank”}
+* Peter Goossens op NJAM : [Youtube](https://www.youtube.com/watch?v=gM8rlqfq9lE) / [Website](https://njam.tv/recepten/erwtensoep-met-broodcroutons)
