@@ -29,4 +29,4 @@
 * Optie 3: room
 
 ## Bronnen
-* Peter Goossens op NJAM : [Youtube](https://www.youtube.com/watch?v=gM8rlqfq9lE) / [Website](https://njam.tv/recepten/erwtensoep-met-broodcroutons)
+* Peter Goossens op NJAM : [Youtube](https://www.youtube.com/watch?v=gM8rlqfq9lE){:target=”_blank”} / [Website](https://njam.tv/recepten/erwtensoep-met-broodcroutons){:target=”_blank”}
