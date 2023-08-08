@@ -28,7 +28,7 @@
 
 <img src="/Assets/Pictures/Courgettesoep_uien.png" width="300">
 
-* Meng nu de blokjes knolserder eronder en stoof tot ze lichtjes glazig beginnen te worden.
+* Meng nu de blokjes knolselder eronder en stoof tot ze lichtjes glazig beginnen te worden.
 
 <img src="/Assets/Pictures/Courgettesoep_Knolselder.png" width="300">
 
@@ -40,7 +40,7 @@
 
 * Voeg 2 liter kokend water toe en de bouillonblokjes en laat alles maar 15 minuten doorkoken
 * Mix het geheel tot alle stukjes weg zijn.
-* Meng er nu de room onder en proef of je nog een beetje moet bijkruiden.
+* Meng er nu de room onder en proef of je nog een beetje moet bijkruiden (zeker peper toevoegen!).
 
 <img src="/Assets/Pictures/Courgettesoep_gemixt.png" width="300">
 
