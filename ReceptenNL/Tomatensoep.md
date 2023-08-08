@@ -21,6 +21,8 @@
 | Bouillonblokjes | 2 | €0.29 |
 | **TOTAAL** || **€4.95** |
 
+*Deze hoeveelheid maakt ongeveer 7 diepe borden, dus €0.70 per portie.*
+
 ## Bereiding
 * Verwarm de oven voor op 200 graden Celcius
 * Snij de tomaten, zoete puntparika, uien en look in grove stukken. 
