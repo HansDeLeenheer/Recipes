@@ -1,4 +1,4 @@
-# Courgetttesoep
+# Courgettesoep
 ## Tijd en Materialen
 * Mise-en-place: 20 min
 * Bereiding: 45 min
