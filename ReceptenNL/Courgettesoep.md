@@ -17,7 +17,7 @@
 | Room | 50cl | €6.58 |
 | **TOTAAL** || **€12.00** |
 
-*Deze hoeveelheid maakt ongeveer 8 diepe borden, dus €1.50 per portie.*
+*Deze hoeveelheid maakt ongeveer 11 diepe borden, dus €1.10 per portie.*
 
 ## Bereiding
 * Snij de courgettes, uien en look in plakjes en de halve knolselder in blokjes. 
