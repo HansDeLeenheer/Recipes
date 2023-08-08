@@ -24,14 +24,24 @@
 ## Bereiding
 * Verwarm de oven voor op 200 graden Celcius
 * Snij de tomaten, zoete puntparika, uien en look in grove stukken. 
+
 <img src="/Assets/Pictures/Tomatensoep_miseenplace.png" width="300">
+
 * Meng alles samen met de tomatenpuree, olijfolie en kruiden in een grote bakplaat.
+
 <img src="/Assets/Pictures/Tomatensoep_ovenplaat.png" width="300">
-*Zet voor 20 minuten in de oven
-*Zet 1 Liter water op met de waterkoker en los er daarna de 2 bouillonblokjes in op.
-*Doe de tomatenmix in een grote pot of de blender en voeg er de bouilon aan toe.
-*Goed mixen
-*Afkruiden met peper en zout.
+
+* Zet voor 20 minuten in de oven
+
+<img src="/Assets/Pictures/Tomatensoep_uitdenoven.png" width="300">
+
+* Zet 1 Liter water op met de waterkoker en los er daarna de 2 bouillonblokjes in op.
+* Doe de tomatenmix in een grote pot of de blender en voeg er de bouilon aan toe.
+* Goed mixen
+
+<img src="/Assets/Pictures/Tomatensoep_gemixt.png" width="300">
+
+* Afkruiden met peper en zout.
 
 ## Serveren
 ...
