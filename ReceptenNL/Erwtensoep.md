@@ -8,16 +8,16 @@
 ## Ingrediënten
 | Ingrediënt | Aantal | Kost |
 |----------|-------------:|------:|
-| Ui | 1 ||
-| Groene selder | 2 stengels ||
-| Wit van prei | 1 ||
-| Look | 1 teentje ||
-| Groente of Kippebouillon | 2 Liter ||
-| Diepvries erwtjes | 700gr ||
-| **TOTAAL** |||
+| Ui | 1 | €0.48 |
+| Groene selder | 2 stengels | €0.40 |
+| Wit van prei | 1 | €1.00 |
+| Look | 1 teentje | €0.10|
+| Groenten- of Kippebouillon | 2 Liter | €0.58 |
+| Diepvries erwtjes | 750gr | €1.49 |
+| **TOTAAL** || **€4.05**|
 
 ## Bereiding
-* Zacht aanstoven aromaten
+* Zacht aanstoven aromaten (ui, selder, prei, look)
 * Bouillon toevoegen
 * Zachtjes aan de kook brengen
 * Erwtjes toevoegen en 10 minuten laten inkoken
