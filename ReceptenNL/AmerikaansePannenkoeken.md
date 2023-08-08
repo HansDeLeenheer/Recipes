@@ -6,7 +6,7 @@
 Bij ons in België zijn we gewoon van flensjes te maken, gebaseerd op de Franse crêpes. En we eten deze meestal als dessert. Maar af en toe wil je wel eens zo een stapel van die fantastische 'fluffy' Amerikaanse pannenkoeken. En ze zijn heel gemakkelijk te maken. 
 
 ## Tijd en Materiaal
-Als je alles in huis hebt, is hier met moeite 5 minuten voorbereiding aan en dan kwartietje bakken.
+Als je alles in huis hebt, is hier met moeite 5 minuten voorbereiding aan en dan kwartiertje bakken.
 
 ## Ingrediënten
 | Ingredient | Hoeveelheid | Cost |
