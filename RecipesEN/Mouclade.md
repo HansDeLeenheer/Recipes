@@ -2,6 +2,8 @@
 
 ## Short Description
 
+<img src="/Assets/Pictures/Mouclade.png" width="300">
+
 ## Time and Materials
 Takes about a 1-2 hours preparation maximum.
 
@@ -42,4 +44,4 @@ you can serve this as is for an appetizer or as a full meal with some toasted br
 
 ## Sources 
 * This recipe has some French roots but has been honed down over time by my father **Freddy De Leenheer**. It is by far the most 'different' type of dish anyone has ever eaten and has brought many people joy in life when we serve it to them. The thickness of the creamy sauce with the abundance of good mussels is truly a treat!
-* Here's how it looks: https://www.instagram.com/p/9EZTT2xdYhkIBFezp-bwPXGupfY3PKjLGh21M0/ 
+* Here's how it looks: [Instagram](https://www.instagram.com/p/9EZTT2xdYhkIBFezp-bwPXGupfY3PKjLGh21M0/) 
