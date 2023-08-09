@@ -8,6 +8,7 @@ Everybody loves a good quiche. You can make it with almost any mixture of vegeta
 ## Ingredients
 | Ingredients | Metric | Imperial |
 |----------|-------------:|------:|
+| Puff Pastry | 1 sheet ||
 | Eggs | 4 ||
 | Cream | 25cl | 1/2 pint |
 | Shredded Cheese | 100gr | 3.5 ounce  |
