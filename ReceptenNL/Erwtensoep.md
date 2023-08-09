@@ -16,11 +16,11 @@
 | Groenten- of Kippebouillon | 2 Liter | €0.58 |
 | Diepvries erwtjes | 750gr | €1.49 |
 | **TOTAAL** || **€4.21**|
-| Spekjes - optioneel | 500gr'\*' | | 
+| Spekjes - optioneel | 500gr\* | | 
 
 *Deze hoeveelheid maakt ongeveer 8 diepe borden, dus €0.52 per portie.*
 
-'\*' *250gr als je vegetariërs in huis hebt. Je bakt de spekjes en doet ze pas helemaal op het einde bij de soep. Kan dus perfect gewoon per bord gebeuren.* 
+\* *250gr als je vegetariërs in huis hebt. Je bakt de spekjes en doet ze pas helemaal op het einde bij de soep. Kan dus perfect gewoon per bord gebeuren.* 
 
 ## Bereiding
 * Snij je ui, look en de klassieke mirepoix (prei/selder/wortel) in stukken
