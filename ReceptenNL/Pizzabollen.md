@@ -22,7 +22,7 @@ Verse pizza maken maar de deeg al klaar liggen hebben in de vriezer. Dikke winne
 <img src="/Assets/Pictures/Pizzabollen_bakpapier.png" width="300">
 
 * Doe eerst ook wat bloem nu op de bovenkant van je deeg.
-* Ik druk de bol een beetje plat en begin met de rand van de pizza te maken. Dus aan de buitenkant met je vingers op 1 cm een ring duwen. En dan van binnen maar buitenwerken om het deeg plat de krijgen en gestreched. De eindvorm doet er niet toe he voor thuis ;-) 
+* Ik druk de bol een beetje plat en begin met de rand van de pizza te maken. Dus aan de buitenkant met je vingers op 1 cm een ring duwen. En dan van binnen naar buiten werken om het deeg plat de krijgen en gestreched. De eindvorm doet er niet toe he voor thuis ;-) 
   
 <img src="/Assets/Pictures/Pizzabollen_platmaken.jpeg" width="300">
 
