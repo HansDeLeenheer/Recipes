@@ -12,16 +12,17 @@ Verse pizzas maken maar de deeeg al klaar liggen hebben in de vriezer. Dikke win
 | **TOTAAL** || **€5.00** |
 
 ## Bereiding
-* Haal 's morgens je bollen uit de vriezer halen en leg ze in een licht geoliede of bebloemde kom ONDER DEKSEL op kamertemperatuur voor 8-10 uur. Zeker niet open latne liggen want dan drogen je bollen uit.
+* Haal 's morgens je bollen uit de vriezer halen en leg ze in een licht geoliede of bebloemde kom ONDER DEKSEL op kamertemperatuur voor 8-10 uur. Zeker niet open laten liggen want dan drogen de bollen uit.
 
 <img src="/Assets/Pictures/Pizzabollen_potteke.png" width="300">
 
 * Verwarm je oven voor zo warm mogelijk (bijv. 240C) en zie dat er een plaat in ligt. We gaan onze pizza op de plaat bakken om een zo krokant mogelijke korst te krijgen.
-* Om gemakkelijk onze pizza op de plaat te krijgen en geen pizzashep te moeten gebruiken, kan je de hele pizza voorbereiden op een blaadje bakpapier. Strooi eerst wat bloem op het bakpapier en op de bol, draai het kommetje voorzichtig om.
+* Om gemakkelijk onze pizza op de plaat te krijgen en geen pizzaschep te moeten gebruiken, kan je de hele pizza voorbereiden op een blaadje bakpapier. Strooi eerst wat bloem op het bakpapier en op de bol, draai het kommetje voorzichtig om.
 
 <img src="/Assets/Pictures/Pizzabollen_bakpapier.png" width="300">
 
-* Ik dus de bol een beetje plat en begin met de rand van de pizza. Dus aan de buiten kant met je vingers op 1 cm een ring duwen. En dan van binnen maar buitenwerken om het deeg plat de krijgen en gerstreched. De eindvorm doet er niet toe he voor thuis ;-) 
+* Doe eerst ook wat bloem nu op de bovenkant van je deeg.
+* Ik druk de bol een beetje plat en begin met de rand van de pizza te maken. Dus aan de buitenkant met je vingers op 1 cm een ring duwen. En dan van binnen maar buitenwerken om het deeg plat de krijgen en gestreched. De eindvorm doet er niet toe he voor thuis ;-) 
   
 <img src="/Assets/Pictures/Pizzabollen_platmaken.png" width="300">
 
@@ -29,7 +30,7 @@ Verse pizzas maken maar de deeeg al klaar liggen hebben in de vriezer. Dikke win
 
 <img src="/Assets/Pictures/Pizzabollen_saus.png" width="300">
 
-* Kies je favoriete toppings en werkt af met mozarella. Vergeet niet: less is more bij dit soort van pizza! Overdrijf zeker niet met teveel toppings.
+* Kies je favoriete toppings en werkt af met mozzarella. Overdrijf zeker niet met teveel toppings. Vergeet niet: less is more bij dit soort van pizza!
 
 <img src="/Assets/Pictures/Pizzabollen_toppings.png" width="300">
 
