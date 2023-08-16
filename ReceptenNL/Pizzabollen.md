@@ -3,7 +3,7 @@
 Verse pizzas maken maar de deeeg al klaar liggen hebben in de vriezer. Dikke winner!
 
 ## Tijd en Materialen
-'smorgen beginnen om 's avonds pizza te maken
+'s morgens uithalen om 's avonds pizza te maken
 
 ## Ingrediënten
 | Ingrediënt | Aantal | Kost |
