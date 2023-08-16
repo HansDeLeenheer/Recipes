@@ -1,6 +1,6 @@
 # Pizzabollen
 ## Korte beschrijving
-Verse pizzas maken maar de deeeg al klaar liggen hebben in de vriezer. Dikke winner!
+Verse pizza maken maar de deeg al klaar liggen hebben in de vriezer. Dikke winner!
 
 ## Tijd en Materialen
 's morgens uithalen om 's avonds pizza te maken
