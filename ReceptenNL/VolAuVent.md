@@ -55,10 +55,25 @@
 
 <img src="/Assets/Pictures/VolAuVent_champignons2.png" width="300">
 
+* Gezien we met warme bouillon werken, gaan we een koude roux maken door 200gr boter en 200gr bloem goed te mengen met elkaar.
 
+<img src="/Assets/Pictures/VolAuVent_roux1.png" width="300"> <img src="/Assets/Pictures/VolAuVent_roux2.png" width="300">
+
+* Filter de bouillon en doe er nu 2 Liter van terug in de pot en breng aan de kook. Gooi de ballekes één voor één in de kokende bouillon en wacht tot ze allemaal boven komen drijven. Dan neem je ze er terug uit.
+
+<img src="/Assets/Pictures/VolAuVent_gekookteballekes.png" width="300">
+
+* Zorg dat de bouillon goed kookt en voeg er al roerend de koude roux onder in stukken. Alles zal rustig smelten en laat een kleine 5 minuten doorkoken en indikken.
+* Voeg er ondertussen ook de room aan toe.
+
+<img src="/Assets/Pictures/VolAuVent_saus.png" width="300">
+
+* Eens je saus de juiste consistentie heeft, proef en kruid af met peper en zout. Voeg nu de kip toe, de ballekes en de champignons.
+
+<img src="/Assets/Pictures/VolAuVent_.png" width="300">
 
 ## Serveren
-
+* Optie: om een beetje kleur toe te voegen is het nooit een slecht gedacht om wat gekapte bladpeterselie toe te voegen net voor het serveren.
 
 ## Bronnen
 
