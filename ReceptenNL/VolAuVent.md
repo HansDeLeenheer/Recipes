@@ -28,13 +28,23 @@
 <img src="/Assets/Pictures/VolAuVent_miseenplace.png" width="300">
 
 * Leg alle aromaten onderaan de pot, leg er de twee kippen op en vul de pot met koud water tot de kippen net onder staan.
-* Zet op een matig vuur en laat aan de kook komen. Laat het geheel een anderhalf uur zeker sudderen.
+* Zet op een laag vuur en laat aan het pruttelen komen. Laat het geheel een anderhalf uur sudderen.
 
 <img src="/Assets/Pictures/VolAuVent_bouillon.png" width="300">
 
 * Ondertussen maken we de gehaktballetjes klaar. Meng het gehakt met een eitje, chapelure, wat sojasaus en Worchestershiresaus en kruid af met peper, zout en wat Italiaanse Kruidenmix.
 
 <img src="/Assets/Pictures/VolAuVent_Ballekes.png" width="300">
+
+* Na anderhalf uur is het vlees van de kip gaar en gaan we het in zo groot mogelijke stukken van de beenderen halen.
+* Al het afval mag terug de pot in en mag nog een uur of twee verder sudderen.
+
+<img src="/Assets/Pictures/VolAuVent_splitsdekip.png" width="300">
+
+* Het vlees mag je nu met de hand scheuren in de grootte dat je graag in je vol-au-vent hebt. Ik heb hier graag iets grotere stukken dan veel te klein. Doe dit ook echt met de hand zodat je zeker bent dat er geen kraakbeen of pezen meer achter blijven.
+* Zet dit nu maar in de koelkast tot straks.
+
+<img src="/Assets/Pictures/VolAuVent_gescheurdekip.png" width="300">
 
 ## Serveren
 
