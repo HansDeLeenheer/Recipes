@@ -22,11 +22,13 @@
 *Deze hoeveelheid maakt gemakkelijk 10 porties, dus €4.79 per persoon.*
 
 ## Bereiding
-* Smij de wortelen, ui en elder in grove stukken. Je hebt deze enkel nodig voorde bouillon en gaan we achteraf niet bijhouden.
+* Snij de wortelen, ui en elder in grove stukken. Je hebt deze enkel nodig voorde bouillon en gaan we achteraf niet bijhouden.
 * Snij de Champignons in schijfjes of kwartjes, afhankelijk van hoe groot ze zijn.
 
 <img src="/Assets/Pictures/VolAuVent_miseenplace.png" width="300">
 
+* Leg alle aromaten onderaan de pot, leg er de twee kippen op en vul de pot met koud water tot de kippen net onder staan.
+* Zet op een matig vuur en laat aan de kook komen. Laat het geheel een uur sudderen.
 
 <img src="/Assets/Pictures/VolAuVent_bouillon.png" width="300">
 
