@@ -46,9 +46,16 @@
 
 <img src="/Assets/Pictures/VolAuVent_gescheurdekip.png" width="300">
 
-* Ondertussen kunnen we dan ook de champignons voorbereiden. Leg de champignons in een koude grote (diepe) pan met 5-10 cl water. Niet meer, we willen gewoon dat we eerst de champignons wat kunnen stomen.
+* Ondertussen kunnen we dan ook de champignons voorbereiden. Leg de champignons in een koude grote (diepe) pan met een klein beetje water. Echt niet veel, we willen gewoon dat we eerst de champignons wat kunnen stomen zonder aan te branden. Ze gaan ook zelf veel vocht afgeven.
+
+<img src="/Assets/Pictures/VolAuVent_champignons1.png" width="300">
+
 * Eens het water verdampt is gaan we een klein beetje olie toevoegen en lichtjes bruin bakken.
 * Zet dan opzij voor helemaal op het einde
+
+<img src="/Assets/Pictures/VolAuVent_champignons2.png" width="300">
+
+
 
 ## Serveren
 
