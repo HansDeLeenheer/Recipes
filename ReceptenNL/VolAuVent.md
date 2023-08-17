@@ -28,9 +28,13 @@
 <img src="/Assets/Pictures/VolAuVent_miseenplace.png" width="300">
 
 * Leg alle aromaten onderaan de pot, leg er de twee kippen op en vul de pot met koud water tot de kippen net onder staan.
-* Zet op een matig vuur en laat aan de kook komen. Laat het geheel een uur sudderen.
+* Zet op een matig vuur en laat aan de kook komen. Laat het geheel een anderhalf uur zeker sudderen.
 
 <img src="/Assets/Pictures/VolAuVent_bouillon.png" width="300">
+
+* Ondertussen maken we de gehaktballetjes klaar. Meng het gehakt met een eitje, chapelure, wat sojasaus en Worchestershiresaus en kruid af met peper, zout en wat Italiaanse Kruidenmix.
+
+<img src="/Assets/Pictures/VolAuVent_Ballekes.png" width="300">
 
 ## Serveren
 
