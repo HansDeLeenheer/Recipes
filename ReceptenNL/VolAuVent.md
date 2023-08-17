@@ -50,7 +50,7 @@
 
 <img src="/Assets/Pictures/VolAuVent_champignons1.png" width="300">
 
-* Eens het water verdampt is gaan we een klein beetje olie toevoegen en lichtjes bruin bakken.
+* Eens het water verdampt is gaan we een klein beetje olie toevoegen en lichtjes bruin bakken. Kruid gerust o0ok nu al bij met peper en zout en 1 of 2 teentjes geperste look.
 * Zet dan opzij voor helemaal op het einde
 
 <img src="/Assets/Pictures/VolAuVent_champignons2.png" width="300">
