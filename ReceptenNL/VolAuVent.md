@@ -51,6 +51,4 @@
 
 ## Bronnen
 
-Methode om Champignons bruin te krijgen met water: 
-
-* Lan Dam in America's Test [Kitchen Youtube](https://youtu.be/rzL07v6w8AA?t=309)
+* Methode om Champignons bruin te krijgen met water: Lan Dam in America's Test Kitchen [Youtube](https://youtu.be/rzL07v6w8AA?t=309)
