@@ -1,6 +1,6 @@
 # Varkensstoverij in de SlowCooker
 ## Tijd en materiaal
-* Voorbereiding" 45 min
+* Voorbereiding: 45 min
 * Totale kooktijd: 8u
 ---
 * Brede braadpan
