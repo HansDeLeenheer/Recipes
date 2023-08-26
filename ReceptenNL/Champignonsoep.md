@@ -1,7 +1,5 @@
----
-title: Champignonsoep
-labels: soep, vegetarisch, champignons
----
+> title: Champignonsoep
+> labels: soep, vegetarisch, champignons
 
 # Champignonsoep
 ## Tijd en Materialen
