@@ -1,3 +1,7 @@
+---
+title: "Erwtensoep"
+tags: ["soep", "vegetarisch", "erwten"]
+---
 # Erwtensoep
 ## Tijd en materiaal
 * Mise-en-place: 20 min

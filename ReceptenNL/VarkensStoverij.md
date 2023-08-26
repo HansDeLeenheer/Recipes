@@ -1,3 +1,7 @@
+---
+title: "Varkensstoverij"
+tags: ["stoofpotje", "slowcooker",  "varken"]
+---
 # Varkensstoverij in de SlowCooker
 ## Tijd en materiaal
 * Voorbereiding: 45 min

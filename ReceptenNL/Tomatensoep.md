@@ -1,3 +1,7 @@
+---
+title: "Tomatensoep"
+tags: ["soep", "vegetarisch", "tomaat"]
+---
 # Tomatensoep
 ## Tijd en Materialen
 * Mise-en-place: 20 min

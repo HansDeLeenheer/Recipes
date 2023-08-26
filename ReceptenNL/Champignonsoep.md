@@ -1,5 +1,7 @@
-> title: Champignonsoep
-> labels: soep, vegetarisch, champignons
+---
+title: "Champignonsoep"
+tags: ["soep", "vegetarisch", "champignon"]
+---
 
 # Champignonsoep
 ## Tijd en Materialen

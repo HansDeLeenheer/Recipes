@@ -1,3 +1,7 @@
+---
+title: "Pizzabollen"
+tags: ["pizza"]
+---
 # Pizzabollen
 ## Korte beschrijving
 Verse pizza maken maar de deeg al klaar liggen hebben in de vriezer. Dikke winner!

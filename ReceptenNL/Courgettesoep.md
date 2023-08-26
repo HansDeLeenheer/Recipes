@@ -1,3 +1,8 @@
+---
+title: "Courgettesoep"
+tags: ["soep", "vegetarisch", "courgette"]
+---
+
 # Courgettesoep
 ## Tijd en Materialen
 * Mise-en-place: 20 min
