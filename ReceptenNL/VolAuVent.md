@@ -1,7 +1,3 @@
----
-title: "Vol au Vent"
-tags: ["stoofpotje", "kip"]
----
 # Vol Au Vent
 ## Tijd en materiaal
 * Mise-en-place: 20 min
