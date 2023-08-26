@@ -1,3 +1,8 @@
+---
+title: Champignonsoep
+labels: soep, vegetarisch, champignons
+---
+
 # Champignonsoep
 ## Tijd en Materialen
 * Mise-en-place: 20 min
