@@ -1,4 +1,4 @@
-# Easy Ramen
+# Easy Ramen voor Twee
 ## Korte beschrijving
 ...
 
@@ -23,14 +23,14 @@
 * Snij de helft van de gember in fijne plakjes, hoeft zelfs niet gepeld te zijn
 * De rest van de gember mag wel gepeld worden en fijn gehakt
 
- <foto>
+<img src="/Assets/Pictures/RamenVoorTwee_miseenplace.png" width="300">
 
 ### De bouillon
 * Neem een hete pan. Gooi er de beenderen, de plakjes gember en de wortels van de lenteui en paksoi in.
 * Giet er nu 1 liter water over en een goede snuif zout
 * Laat nu zeker 30 minuten zachtjes pruttelen
 
-<foto>
+<img src="/Assets/Pictures/RamenVoorTwee_bouillon.png" width="300">
 
 ### De olie
 * Strooi wat grof zout langs beide kanten van de kippedijen en zet 5 minuten opzij.
