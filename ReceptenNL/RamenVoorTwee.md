@@ -37,18 +37,20 @@
 * Verwarm ondertussen de creuset pot op een zacht vuur.
 * Leg de kippedijen er droog in op de kant van het vel en laat zachtjes al het vet los komen van de kip. Laat gerust op het vel liggen tot het goed krokant is alvorens om te draaien om verder te garen. 
 
-<foto>
+<img src="/Assets/Pictures/RamenVoorTwee_kip.png" width="300">
 
 * Als de kip gaar is, haal je ze uit uit pan en voeg je de gehakte gember toe.
 * Let op dat je dit niet aanbrandt. Het mag goed crispy en bruin worden maar niet aanbranden.
 * Leg de gember nu ook opzij en laat zeker zoveel mogelijk vet in de pot.
+
+<img src="/Assets/Pictures/RamenVoorTwee_gember.png" width="300">
 
 ### Miso Soep
 * Voeg de miso pasta toe aan de pot en laat het twee minuten al roerend wat carameliseren in het vet.
 * Nu gaan we stapsgewijs al roerend de bouillon inmengen. Niet te snel, anders krijg je geen goede consistentie.
 * Zet je miso soep nu nog even opzij.
 
-<foto>
+<img src="/Assets/Pictures/RamenVoorTwee_miso.png" width="300">
 
 ### Laatste stappen
 
@@ -56,10 +58,11 @@
 * Laat de paksoi 2 minuten blancheren in het hete water en leg opzij.
 * Kook hier nu je ramen in volgens het pakje.
 
-
 ## Serveren
 * Vul 3/4e van je eetkom met de miso soep en leg er de ramen in langs één kant van het kommetje.
 * Leg de paksoi er naast en vul verder aan met de kip, gesneden in de grootte dat je gemakkelijk kan eten, het eitje in de helft gesneden en werk af met de gesnipperde lenteui en die krokante stukjes gember.
+
+<img src="/Assets/Pictures/RamenVoorTwee_kommetjes.png" width="300">
 
 * Heb je het graag pikant, dan kan je er nog iets van chili vlokken of chiliolie aan toevoegen.
 
