@@ -46,6 +46,3 @@ maakte 9 porties; 6 met spekjes, 3 zonder
 ## Serveren
 * Haal de Mac 'n Cheese de avond op voorhand uit de vriezer en zet in de koelkast.
 * Warm de oven voor op 180 graden en zet je porties er in voor een goeie 15 minuten of tot je een mooi korstje hebt gekregen. Smakelijk!
-
-## Inspiratie
-* Bron : [link](https://link.com)
