@@ -3,8 +3,8 @@
 ...
 
 ## Tijd en Materialen
-Neem toch maar een dik uur in totaal tijd om dit rustig klaar te maken.
-Het enige wat je nodig hebt van materiaal is 2 deftige kookpotten en een grote zeef.
+* Neem toch maar een dik uur in totaal tijd om dit rustig klaar te maken.
+* Het enige wat je nodig hebt van materiaal is 2 deftige kookpotten en een grote zeef.
 
 ## Ingrediënten
 | Ingrediënt | Aantal | Kost |
