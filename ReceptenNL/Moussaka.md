@@ -24,9 +24,10 @@
 
 * Maakt 6 porties.
 * Kruiden: peper, zout, tijm, nootmuskaat en genoeg olijfolie.
-* Voor een veggie alternatief: paddenstoelen gebruiken ipv gehakt in je 'vleessaus'.
+* Voor een veggie alternatief: 125gr paddenstoelen per portie in schijfjes bruin bakken ipv gehakt in je 'vleessaus'.
 
 <img src="/Assets/Pictures/Moussaka_miseenplace.jpeg" width="300">
+(oepsie, potje tomatenpuree staat niet op mijn mise en place) 
 
 ## Bereiding
 * Verwarm je oven voor op 180 graden celsius.
