@@ -46,7 +46,7 @@ Maakt 6 porties
 
 <img src="/Assets/Pictures/Moussaka_vlees01.jpeg" width="300">
 
-* Voeg een blikje tometenpuree toe en laat even doorbakken. 
+* Voeg een blikje tomatenpuree toe en laat even doorbakken. 
 
 <img src="/Assets/Pictures/Moussaka_vlees02.jpeg" width="300"> 
 
