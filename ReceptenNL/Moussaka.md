@@ -61,6 +61,7 @@
 * Zet even opzij terwijl we een bechamel maken
 * Breng de melk aan de kook terwijl je de boter en bloem goed door elkaar brengt tot een koude roux.
 * Eens het kookpunt bereikt is, haal je de pan van het vuur en doe je de roux er in stukjes onder terwijl je aandachtig roert met de garde. Dit gaat een stevige bechamel worden!
+* Bechamel altijd goed kruiden met nootmuskaat, peper en beetje zout.
 
 <img src="/Assets/Pictures/Moussaka_bechamel.jpeg" width="300"> 
 
