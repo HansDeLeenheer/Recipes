@@ -21,9 +21,9 @@
 | Bloem | 75gr | €0.00 |
 | **TOTAAL** || **€5.00** |
 
-Kruiden: peper, zout, tijm, nootmuskaat en genoeg olijfolie.
-
-Maakt 6 porties
+* Maakt 6 porties.
+* Kruiden: peper, zout, tijm, nootmuskaat en genoeg olijfolie.
+* Voor een veggie alternatief: paddenstoelen gebruiken ipv gehakt in je 'vleessaus'.
 
 <img src="/Assets/Pictures/Moussaka_miseenplace.jpeg" width="300">
 
