@@ -14,6 +14,8 @@
 ## Bereiding
 ...
 
+<img src="/Assets/Pictures/source.png" width="300">
+
 ## Serveren
 ...
 
