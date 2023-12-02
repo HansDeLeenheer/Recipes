@@ -34,7 +34,7 @@ This makes 9 portions, 6 with bacon, 3 without (veggie)
 * Season well with black pepper and ground nutmeg.
 * Add the Emmenthal cheese. Your cheese sauce is ready
 
-### Brit together
+### Bring it together
 * Add the sauce over your macaroni (or the other way around).
 * If you want to make some veggie portion, this is your time to make them.
 * Otherwise throw in your bacon lardons and mix well together with a big spoon.
