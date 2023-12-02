@@ -74,7 +74,7 @@
 
 <img src="/Assets/Pictures/VolAuVent_saus.png" width="300">
 
-* Your sauce is not ready. Eason to taste with salt and pepper and maybe a pinch of nutmeg. Add the pieces of chicken and meatballs and heat everything through for serving or saving.
+* Your sauce is now ready. Season to taste with salt and pepper and maybe a pinch of nutmeg. Add the pieces of chicken and meatballs and heat everything through for serving or saving.
 
 <img src="/Assets/Pictures/VolAuVent.png" width="300">
 
