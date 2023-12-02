@@ -9,7 +9,7 @@
 | Ingrediënt | Aantal | Kost |
 |----------|-------------:|------:|
 | Onions | 2 | €0.00 |
-| Green Selery  | 3 stalks | €0.00 |
+| Green celery  | 3 stalks | €0.00 |
 | Carrots | 4 | €0.00 |
 | Chicken | 2 whole | €0.00 |
 | Minced Meat | 2 lbs | €0.00 |
@@ -22,19 +22,19 @@
 *This easily makes 10 portions*
 
 ## Bereiding
-* Cut the carrots, onion and selery in large chunks. You only need these for making your own chicken stock.
+* Cut the carrots, onion, and celery into large chunks. You only need these for making your own chicken stock.
 * Slice your mushrooms and halve them if necessary.
 
 <img src="/Assets/Pictures/VolAuVent_miseenplace.png" width="300">
 
-* Put all the aromats at the bootom of your pot and place the chickens on top. Fill the pot with water until they are properly submerged.
-* Yuo can add some dried herbs, some pepper corns and two bay leaves.
-* Bring slowly to a boil and let this immer for about 90 minutes.
+* Put all the aromats at the bottom of your pot and place the chickens on top. Fill the pot with water until they are properly submerged.
+* You can add some dried herbs, some pepper corn, and two bay leaves.
+* Bring slowly to a boil and let this simmer for about 90 minutes.
 
 <img src="/Assets/Pictures/VolAuVent_bouillon.png" width="300">
 
-* In the mean time we got all the time in the world to prepare some meatballs.
-* Bring together the minced meat with an egg, a handful of breadcrumbs, some soy sauce and Worcestershire sauce, pepper, salt, and some mediterranean spices if you will.
+* In the meantime we got all the time in the world to prepare some meatballs.
+* Bring together the minced meat with an egg, a handful of breadcrumbs, some soy sauce and Worcestershire sauce, pepper, salt, and some Mediterranean spices if you will.
 * Now roll this mince in small meatballs, no larger than 2/3 inch.
 
 <img src="/Assets/Pictures/VolAuVent_Ballekes.png" width="300">
@@ -59,22 +59,22 @@
 
 <img src="/Assets/Pictures/VolAuVent_champignons2.png" width="300">
 
-* Since we ar working with a hot tock, we need to use a cold roux as a binder.
+* Since we are working with a hot tock, we need to use a cold roux as a binder.
 * Mix the flour with the cold butter (I use a food processor) until you get a paste and put aside until the stock is ready.
 
 <img src="/Assets/Pictures/VolAuVent_roux1.png" height="200"> <img src="/Assets/Pictures/VolAuVent_roux2.png" height="200">
 
-* Once the stock is ready to go, filer it through a cheesecloth and keep 4 pints.
-* Bring it to a boil and throw in the meatballs one by one, cook them until they float and then get them out of the pot.
+* Once the stock is ready to go, filter it through a cheesecloth and keep 4 pints.
+* Bring it to a boil and throw in the meatballs one by one, cook them until they float, and then get them out of the pot.
 
 <img src="/Assets/Pictures/VolAuVent_gekookteballekes.png" width="300">
 
-* Mak sure the stock is on a slow rolling boil and add the cold roux paste in chunks. Now stir properly with a whisk and boil gently for a good 5 minutes until the sauce is thickened.
+* Make sure the stock is on a slow rolling boil and add the cold roux paste in chunks. Now stir properly with a whisk and boil gently for a good 5 minutes until the sauce is thickened.
 * Now it's time to add the cream.
 
 <img src="/Assets/Pictures/VolAuVent_saus.png" width="300">
 
-* Your sauce is not ready. Eason to taste with salt and pepper and maybe a pinch of nutmeg. Add the pices of chicken and meatballs and heat everything through for serving or saving.
+* Your sauce is not ready. Eason to taste with salt and pepper and maybe a pinch of nutmeg. Add the pieces of chicken and meatballs and heat everything through for serving or saving.
 
 <img src="/Assets/Pictures/VolAuVent.png" width="300">
 
