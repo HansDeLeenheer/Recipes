@@ -80,6 +80,7 @@
 
 ## Serve
 * Optional: it is very common to add a good handful of chopped flat-leaf parsley at the end for color and a little freshness.
+* Traditionally this is served either with mashed potatoes or Belgian Fries.
 
 ## Sources
 * This is a true Belgian classic so there will be 1000's of versions similar to this.
